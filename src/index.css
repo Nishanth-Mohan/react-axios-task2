@@ -1,0 +1,9 @@
+.navbar-collapse{
+    display: flex;
+    justify-content: end;
+}
+
+nav a{
+    text-decoration: none !important;
+    margin: 7px;
+}
