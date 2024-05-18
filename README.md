@@ -13,13 +13,13 @@
    - Edit an existing user's information.
    - Delete a user from the list.
      
-     **Dependencies:**
+   **Dependencies:**
      
      - react: JavaScript library for building user interfaces.
      - react-router-dom: DOM bindings for React Router, enabling navigation in a React application.
      - axios: Promise-based HTTP client for making HTTP requests from the browser.
 
-       **Folder Structure:**
+   **Folder Structure:**
        
      - src/: Contains the source code of the application.
      - Component/: Contains reusable components used across the application.
@@ -27,13 +27,13 @@
      - App.jsx: Main component of the application that defines routes and global state.
      - public/: Contains static assets and the index.html file.
 
-       **Usage:**
+   **Usage:**
      - Click on the "UserInfo" link in the navigation bar to view a list of users.
      - You can create, edit and delete users from the UserInfo page.
      - Click on the "Create" link in the navigation bar to create a new user.
      - Click on the "Edit" button next to a user to edit their information.
 
-       **Instructions to Run the Project:**
+   **Instructions to Run the Project:**
 
     1) Ensure you have Node.js and npm (Node Package Manager) installed on your system.
     2) Clone the repository to your local machine.
